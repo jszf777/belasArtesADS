@@ -1,5 +1,5 @@
 #Desenvolva um programa python que receba do usuário 10 numeros inteiros
-#em uma pilha e inverta a ordem dos elementos desta pilha usando duas pilhas adicionais
+#em uma pilha e inverta a ordem dos elementos desta pilha usando duas pilhas adicionais 
 
 P = []
 P1 = []
