@@ -1,3 +1,5 @@
+#plha que recebe caracteres e devolve apenas vogais
+
 pv = []
 
 for x in range(1, 11, +1):
